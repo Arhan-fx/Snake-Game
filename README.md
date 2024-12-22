@@ -5,5 +5,5 @@ I have invested a lot of time for thinking and this please give me a vote and ma
 
 https://www.geeksforgeeks.org/snake-game-in-python-using-pygame-module/
 I have used this website for the essential knowledge to be gained to make this game!
-
+No user demos are available because python file cannot be directly delployed on websites!
 :-)
